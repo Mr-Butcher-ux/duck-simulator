@@ -1,8 +1,6 @@
 #Ducks can swim, fly, and quack. Rubber ducks can squick and swim but cannot fly.
 # Decoy ducks cannot fly, swim, and quack. Each type of duck flies and quacks differently. ex)
 # you can just print out "fly with a wing" or "quack".
-#Bryan Rocha, November 2, 2022, CSCI4316_001_202310: Software Engineering I
-#Instructor: Young Lee;
 
 #This is the class duck,in this class is defined the actions of the ducks
 class Duck(object):
